@@ -1,0 +1,4 @@
+baseURL = "https://benp.dev/"
+languageCode = "en-us"
+title = "benp.dev"
+theme = "gohugo-theme-ananke"
