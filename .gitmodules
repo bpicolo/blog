@@ -1,3 +1,4 @@
-[submodule "themes/papercss-hugo-theme"]
-	path = themes/papercss-hugo-theme
-	url = https://github.com/zwbetz-gh/papercss-hugo-theme.git
+[submodule "public"]
+	path = public
+	url = git@github.com:bpicolo/bpicolo.github.io.git
+	branch = master
